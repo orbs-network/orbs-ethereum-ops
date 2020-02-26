@@ -1,0 +1,1 @@
+This repo contains the black list of versions which our Ethereum notifier can ignore for notifications.
